@@ -1,0 +1,34 @@
+[
+    {
+        "transactionName": "labchaincodeExists",
+        "transactionLabel": "A test labchaincodeExists transaction",
+        "arguments": [
+            "0"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "initLedger",
+        "transactionLabel": "A test initLedger transaction",
+        "arguments": [
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readStudentData",
+        "transactionLabel": "A test readStudentData transaction",
+        "arguments": [
+            "0"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updatePassedState",
+        "transactionLabel": "A test updatePassedState transaction",
+        "arguments": [
+            "0",
+            true
+        ],
+        "transientData": {}
+    }
+]
